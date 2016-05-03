@@ -1,0 +1,30 @@
+D:\C++\VS\test3\test3\test3\bin\Debug\test3.exe.config
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.Form1.resources
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.Properties.Resources.resources
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.csproj.GenerateResource.Cache
+D:\C++\VS\test3\test3\test3\bin\Debug\test3.exe
+D:\C++\VS\test3\test3\test3\bin\Debug\test3.pdb
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.exe
+D:\C++\VS\test3\test3\test3\obj\Debug\test3.pdb
+C:\users\user\Downloads\test3\test3\bin\Debug\test3.exe.config
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.exe
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.pdb
+C:\users\user\Downloads\test3\test3\bin\Debug\test3.exe
+C:\users\user\Downloads\test3\test3\bin\Debug\test3.pdb
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.Form1.resources
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.Properties.Resources.resources
+C:\users\user\Downloads\test3\test3\obj\Debug\test3.csproj.GenerateResource.Cache
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\bin\Debug\test3.exe.config
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.exe
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.pdb
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\bin\Debug\test3.exe
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\bin\Debug\test3.pdb
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.Form1.resources
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.Properties.Resources.resources
+C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_test_solution\test3\test3\obj\Debug\test3.csproj.GenerateResource.Cache
+C:\Users\thurt\Desktop\test3\test3\bin\Debug\test3.exe.config
+C:\Users\thurt\Desktop\test3\test3\obj\Debug\test3.exe
+C:\Users\thurt\Desktop\test3\test3\obj\Debug\test3.pdb
