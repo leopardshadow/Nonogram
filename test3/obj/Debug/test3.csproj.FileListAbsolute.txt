@@ -28,3 +28,12 @@ C:\Users\thurt\Google 雲端硬碟\專題\source_code\c_sharp\0503_1942\0503_tes
 C:\Users\thurt\Desktop\test3\test3\bin\Debug\test3.exe.config
 C:\Users\thurt\Desktop\test3\test3\obj\Debug\test3.exe
 C:\Users\thurt\Desktop\test3\test3\obj\Debug\test3.pdb
+C:\Users\thurt\Desktop\oop\test3\bin\Debug\test3.exe.config
+C:\Users\thurt\Desktop\oop\test3\bin\Debug\test3.exe
+C:\Users\thurt\Desktop\oop\test3\bin\Debug\test3.pdb
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.Form1.resources
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.Properties.Resources.resources
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.csproj.GenerateResource.Cache
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.exe
+C:\Users\thurt\Desktop\oop\test3\obj\Debug\test3.pdb
